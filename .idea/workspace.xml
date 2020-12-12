@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="updateworkplace">
+    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="update POW">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -80,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607796790660</updated>
       <workItem from="1607796794817" duration="655000" />
-      <workItem from="1607797567322" duration="4488000" />
+      <workItem from="1607797567322" duration="4681000" />
     </task>
     <task id="LOCAL-00001" summary="delete Test">
       <created>1607802797855</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607806260827</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update POW">
+      <created>1607806559688</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607806559688</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="delete Test" />
     <MESSAGE value="init2" />
     <MESSAGE value="updateworkplace" />
-    <option name="LAST_COMMIT_MESSAGE" value="updateworkplace" />
+    <MESSAGE value="update POW" />
+    <option name="LAST_COMMIT_MESSAGE" value="update POW" />
   </component>
 </project>
