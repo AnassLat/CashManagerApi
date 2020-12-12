@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="Add travis" />
+    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="update travis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607796790660</updated>
       <workItem from="1607796794817" duration="655000" />
-      <workItem from="1607797567322" duration="6068000" />
+      <workItem from="1607797567322" duration="6463000" />
     </task>
     <task id="LOCAL-00001" summary="delete Test">
       <created>1607802797855</created>
@@ -128,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607809079658</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update extension">
+      <created>1607809467039</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607809467039</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update travis">
+      <created>1607809653490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607809653490</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +166,8 @@
     <MESSAGE value="update POW" />
     <MESSAGE value="update POW second time" />
     <MESSAGE value="Add travis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add travis" />
+    <MESSAGE value="update extension" />
+    <MESSAGE value="update travis" />
+    <option name="LAST_COMMIT_MESSAGE" value="update travis" />
   </component>
 </project>
