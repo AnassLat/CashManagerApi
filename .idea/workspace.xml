@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="delete Test">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/tutorial/SimpleCrud/KotlincruddemoApplication.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/tutorial/SimpleCrud/SimpleCrudApplication.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/tutorial/SimpleCrud/controllers/UserController.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/tutorial/SimpleCrud/models/User.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/tutorial/SimpleCrud/repositories/UserRepository.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/tutorial/SimpleCrud/services/UserService.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/tutorial/SimpleCrud/services/impl/UserServiceImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="init2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +34,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="JUnit.All in SimpleCrud">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -72,9 +57,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavatechieGroupServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="CashManagerGroupServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SimpleCrud" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javatechie.group.JavatechieGroupServiceApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.CashManager.group.CashManagerGroupServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607796790660</updated>
       <workItem from="1607796794817" duration="655000" />
-      <workItem from="1607797567322" duration="2887000" />
+      <workItem from="1607797567322" duration="4192000" />
     </task>
     <task id="LOCAL-00001" summary="delete Test">
       <created>1607802797855</created>
@@ -103,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607802797855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init2">
+      <created>1607805049634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607805049634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init2">
+      <created>1607805436458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607805436458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete Test" />
+    <MESSAGE value="init2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init2" />
   </component>
 </project>
