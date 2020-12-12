@@ -8,10 +8,10 @@
 		<version>2.4.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatechie</groupId>
-	<artifactId>javatechie-group-service</artifactId>
+	<groupId>com.cashmanager</groupId>
+	<artifactId>-group-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>javatechie-group-service</name>
+	<name>cashmanager</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
