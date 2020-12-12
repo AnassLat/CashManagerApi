@@ -2,15 +2,5 @@ language: java
 dist: xenial
 jdk:
   - openjdk11
-env:
-  - MAVEN_VERSION=3.3.9
-install:
-  - "mvn -N io.takari:maven:wrapper -Dmaven=${MAVEN_VERSION}"
-  - "./mvnw --show-version --errors --batch-mode test-compile dependency:go-offline"
 
-before_script:
-  -chmod +x mvnw
-script: "./mvn clean install"
-cache:
-  directories:
-    - $HOME/.m2
+install: mvn clean install
