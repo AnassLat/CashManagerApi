@@ -2,5 +2,8 @@ language: java
 dist: xenial
 jdk:
   - openjdk11
-
+services:
+  - mysql
+before_install:
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS test;'
 install: mvn clean install
