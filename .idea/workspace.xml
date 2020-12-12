@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="update travis script2">
+    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="update travis script3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607796790660</updated>
       <workItem from="1607796794817" duration="655000" />
-      <workItem from="1607797567322" duration="6937000" />
+      <workItem from="1607797567322" duration="7272000" />
     </task>
     <task id="LOCAL-00001" summary="delete Test">
       <created>1607802797855</created>
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607810053736</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update travis script3">
+      <created>1607810294134</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607810294134</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +195,7 @@
     <MESSAGE value="update travis" />
     <MESSAGE value="update travis script" />
     <MESSAGE value="update travis script2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update travis script2" />
+    <MESSAGE value="update travis script3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update travis script3" />
   </component>
 </project>
