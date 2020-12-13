@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="update travis script7">
+    <list default="true" id="7e0b54ab-096b-4194-b4e3-8dc5c9128b71" name="Default Changelist" comment="update travis script11">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -39,13 +44,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="JUnit.All in SimpleCrud">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607796790660</updated>
       <workItem from="1607796794817" duration="655000" />
-      <workItem from="1607797567322" duration="8069000" />
+      <workItem from="1607797567322" duration="10478000" />
+      <workItem from="1607856921168" duration="901000" />
     </task>
     <task id="LOCAL-00001" summary="delete Test">
       <created>1607802797855</created>
@@ -194,7 +202,35 @@
       <option name="project" value="LOCAL" />
       <updated>1607811269049</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update travis script8">
+      <created>1607811423231</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607811423231</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update travis script9">
+      <created>1607811600750</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607811600750</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update travis script10">
+      <created>1607811934758</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607811934758</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update travis script11">
+      <created>1607812411998</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607812411998</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +246,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete Test" />
@@ -227,6 +264,10 @@
     <MESSAGE value="update travis script5" />
     <MESSAGE value="update travis script6" />
     <MESSAGE value="update travis script7" />
-    <option name="LAST_COMMIT_MESSAGE" value="update travis script7" />
+    <MESSAGE value="update travis script8" />
+    <MESSAGE value="update travis script9" />
+    <MESSAGE value="update travis script10" />
+    <MESSAGE value="update travis script11" />
+    <option name="LAST_COMMIT_MESSAGE" value="update travis script11" />
   </component>
 </project>
